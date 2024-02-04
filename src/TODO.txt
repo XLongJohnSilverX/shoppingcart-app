@@ -1,0 +1,17 @@
+
+-Nav Bar
+
+
+-Store Page
+    -fetured items section
+    -grid 
+    -search
+
+
+
+Color Palete 
+
+blue : #7393E6
+dark purple : #C186CD
+light purple : #C894DF
+red : #E1759A
